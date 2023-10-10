@@ -1,2 +1,2 @@
-# my_first_repo
-My first github repo
+# Example Respository
+I am learning how to use git!
